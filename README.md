@@ -1,0 +1,1 @@
+Para executar o código basta chamar em shell com a chave e texto como parametros
